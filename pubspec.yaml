@@ -13,8 +13,7 @@ dependencies:
     sdk: flutter
 
   image: ^2.1.19
-  event_bus: ^1.1.1
-
+  event_bus: ^2.0.0
 
 dev_dependencies:
   flutter_test:
